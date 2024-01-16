@@ -123,8 +123,8 @@ export const WindowApp = () => {
       </Box>
       <Center>
         <HStack spacing={1} mb={2} align="start">
-          <Text fontSize="14px">Powered by</Text>
-          <Image src={jambonz} alt="Jambonz Logo" w="91px" h="31px" />
+          {/* <Text fontSize="14px">Powered by</Text>
+          <Image src={jambonz} alt="Jambonz Logo" w="91px" h="31px" /> */}
         </HStack>
       </Center>
     </Grid>
