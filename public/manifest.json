@@ -1,10 +1,10 @@
 {
   "version": "1.0.5",
   "manifest_version": 3,
-  "name": "jambonz webrtc phone",
-  "description": "jambonz webrtc phone",
+  "name": "ccall webrtc phone",
+  "description": "ccall webrtc phone",
   "action": {
-    "default_title": "jambonz webrtc phone"
+    "default_title": "ccall webrtc phone"
   },
   "background": {
     "service_worker": "background/index.js"
