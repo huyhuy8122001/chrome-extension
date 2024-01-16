@@ -9,11 +9,12 @@
 /coverage
 
 # production
-/build
 
-/dist
-/lib
-/components
+# /build
+
+# /dist
+# /lib
+# /components
 
 # misc
 .DS_Store
