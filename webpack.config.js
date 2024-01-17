@@ -184,7 +184,7 @@ function getHtmlPlugins(chunks) {
   return chunks.map(
     (chunk) =>
       new HTMLPlugin({
-        title: "CCALL Webphone",
+        title: "eTouch Webphone",
         filename: `${chunk}.html`,
         chunks: [chunk],
       })
