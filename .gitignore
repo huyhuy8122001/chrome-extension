@@ -10,11 +10,11 @@
 
 # production
 
-# /build
+/build
 
-# /dist
-# /lib
-# /components
+/dist
+/lib
+/components
 
 # misc
 .DS_Store
