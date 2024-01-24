@@ -2,7 +2,7 @@
   "version": "1.0.5",
   "manifest_version": 3,
   "name": "eTouch webrtc phone",
-  "description": "ccaeTouchll webrtc phone",
+  "description": "eTouch webrtc phone",
   "action": {
     "default_title": "eTouch webrtc phone"
   },
